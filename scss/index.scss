@@ -1,0 +1,16 @@
+/* IMPORTS */
+
+/* GLOBALS */
+@import "./globals";
+
+/* PARTIALS*/
+@import "./partials/header";
+@import "./partials/quienes-somos.scss";
+@import "./partials/ofertas.scss";
+@import "./partials/contacto.scss";
+@import "./partials/footer";
+
+/* PAGES */
+@import "./pages/home";
+@import "./pages/productos";
+

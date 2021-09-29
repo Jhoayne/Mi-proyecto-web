@@ -1,0 +1,52 @@
+/* NORMALIZE*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 62.5%;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  }
+
+  main{
+    background-color: #E6E6FA;
+  }
+  
+  ul{
+
+   ol {
+     list-style-type: none;
+     padding-left: 0;
+    }
+  }
+
+  
+  a {
+    text-decoration: none;
+    color: #202020;
+  }
+ 
+  form {
+    color: #9c9797;
+  }
+  
+  .titulo {
+    color:rgb(44, 185, 185);
+    font-family: "Fjalla One", sans-serif;
+    padding: 1rem 1rem;
+  }
+  
+  p {
+    color: #202020;
+    font-family: "Montserrat", sans-serif;
+  }

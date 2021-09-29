@@ -1,0 +1,33 @@
+/*BANNER INICIO*/
+
+.principal{
+    width: 100%;
+    height: 100vh;
+    background: url(../multimedia/desechables.jpg);
+    background-size: cover;
+}
+
+.principal__container {
+    align-items: center;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.principal__container--titulo {
+    text-align: left;
+    font-size: 20vh;
+    color: rgb(44, 185, 185);
+}
+
+button {
+    font-family:"montserrat", sans-serif;
+    border-color: rgb(90, 230, 211);
+    border-radius: 5%;
+    background-color:rgb(90, 230, 211) ;
+    width: auto;
+    height: 10vh;
+}
